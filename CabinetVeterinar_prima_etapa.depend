@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1621234937 source:c:\users\denisa\desktop\poo\cabinetveterinar_prima_etapa\main.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<vector>
+	<list>
+	<iterator>
+	<map>
+	<set>
+	<fstream>
+	<typeinfo>
+	<dos.h>
+	<conio.h>
+
